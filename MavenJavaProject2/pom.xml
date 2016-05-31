@@ -20,12 +20,13 @@
 			<version>3.0.1</version>
 			<scope>provided</scope>
 		</dependency> -->
-		<dependency>
- 		<groupId>afl.com</groupId>
- 		<artifactId>MavenJavaProject</artifactId>
- 		<version>0.0.1-SNAPSHOT</version>
- 	</dependency>
-	</dependencies>
+<dependency>
+    <groupId>afl.com</groupId>
+    <artifactId>MavenJavaProject</artifactId>
+    <version>0.0.1-20160530.072546-3</version>
+    <type>war</type>
+</dependency>
+</dependencies>
 	<distributionManagement>
 		<snapshotRepository>
 			<id>snapshots</id>
