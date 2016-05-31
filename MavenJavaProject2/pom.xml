@@ -21,6 +21,14 @@
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
+	<distributionManagement>
+		<snapshotRepository>
+			<id>snapshots</id>
+			<name>3218-TZA-AFLAC-snapshots</name>
+			<url>http://172.17.185.160:8080/artifactory/libs-snapshot-local</url>
+		</snapshotRepository>
+	</distributionManagement>
+
 	<build>
 		<finalName>MavenJavaProject2</finalName>
 	</build>
