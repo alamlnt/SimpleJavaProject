@@ -15,7 +15,7 @@ buildscript {
     }
 }
 plugins {
-  id "com.jfrog.artifactory" version "4.2.0"
+  id "com.jfrog.artifactory" version "4.3.0"
 }
 //allprojects {
 //  apply plugin: "com.jfrog.artifactory"
